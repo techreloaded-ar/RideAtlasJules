@@ -23,7 +23,8 @@ Per i **motoviaggiatori over‑50**, spesso poco tecnologici ma desiderosi d’a
 **Obiettivo**: fornire linee guida d’architettura per stimare effort, scegliere stack e mantenere la flessibilità necessaria a evolvere il prodotto.
 
 * **Next.js**: framework React per frontend/server rendering e routing efficiente
-* **PostgreSQL** per lo  storage. 
+* **PostgreSQL** per lo  storage. Stringa connessione 
+* **Prisma** come ORM
 * **NextAuth.JS** – gestione autenticazione e identità (email, Apple/Google login, ACL)
 * **TailwindCSS** – sistema utility-first per styling veloce e responsivo
 
